@@ -1,0 +1,1 @@
+print("Service 22: sessions supported check")
